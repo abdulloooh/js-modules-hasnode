@@ -1,0 +1,7 @@
+{
+  "name": "commonjs-in-esm",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  }
+}
